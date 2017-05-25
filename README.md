@@ -20,7 +20,9 @@ It started as a side project, and morphed into something that is almost useable.
 - Syntax Highlighting built into the file manager, to help with on the fly edits.
 - Advanced Logging allows each individual script to log different levels of information, and presents it in a easy to read and understand interface.
 
-### C# Job Types. In order to support older systems, there are two types of C# jobs: integrated and standalone.
+### C# Job Types. 
+
+In order to support older systems, there are two types of C# jobs: integrated and standalone.
 
 #### Integrated Jobs
 
